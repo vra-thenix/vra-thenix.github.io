@@ -14,7 +14,7 @@ body::before {
   position: fixed;
   background: #040404 url("../images/kira.png") top right no-repeat;
   background-size: cover;
-  left: 0;
+  left: !!;
   right: 0;
   top: 0;
   height: 1000vh;
